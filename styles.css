@@ -1,0 +1,24 @@
+head {
+  margin-top: 1000000px;
+}
+#image {
+  max-width: 7000px;
+  max-height: 825px;
+  height: auto;
+  display: flex;
+}
+img {
+  margin: 0 auto;
+}
+#main {
+  text-align: center;
+}
+body {
+  background-color: #000033;
+  font-family: Tahoma;
+  color: #ffffff;
+  margin: 15;
+}
+#easterEggImage {
+  cursor: pointer;
+}
